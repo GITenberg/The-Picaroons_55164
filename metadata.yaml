@@ -1,0 +1,31 @@
+_repo: The-Picaroons_55164
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Irwin, Will
+    alias: Irwin, William Henry
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '26707'
+    url: http://www.gutenberg.org/2009/agents/26707
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Irwin
+  - agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_issued: '2017-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Picaroons
+url: http://www.gutenberg.org/ebooks/55164
